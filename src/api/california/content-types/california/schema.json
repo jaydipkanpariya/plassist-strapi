@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "californias",
+  "info": {
+    "singularName": "california",
+    "pluralName": "californias",
+    "displayName": "California"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "content": {
+      "type": "richtext"
+    }
+  }
+}
